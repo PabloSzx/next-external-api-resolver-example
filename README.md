@@ -1,3 +1,11 @@
+In this example, without the **externalResolver** flag, you get 
+
+> ***API resolved without sending a response for /api/express/todos?userId=1, this may result in stalled requests.*** 
+
+Every time.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
